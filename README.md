@@ -53,9 +53,9 @@ My🚪is always open. Ping me, call me, schedule a Zoom meeting, whatever you wa
 
 ## Book Recommendations
 
-* [Tao Te Ching](https://www.amazon.com/Million-Miles-Thousand-Years-Learned/dp/1400202981/ref=sr_1_1?keywords=a+million+miles+in+a+thousand+years&qid=1689878451&sprefix=a+million+miles+in+%2Caps%2C109&sr=8-1](https://www.amazon.com/Tao-Te-Ching-Perennial-Classics/dp/0061142662). It is what I recommend when someone asks for a book on Servant Leadership
-* [Zen and the Art of Motorcycle Maintenance](https://www.amazon.com/Leader-Who-Had-No-Title/dp/1439109133/ref=sr_1_1?keywords=the+leader+who+had+no+title+by+robin+sharma&qid=1689878502&sprefix=The+leader+who+ha%2Caps%2C107&sr=8-1](https://www.amazon.com/Zen-Art-Motorcycle-Maintenance-Inquiry/dp/0060589469). Why eliminating distractions and context switching leads to the highest quality work.
-* [The Hero With a Thousand Faces](https://www.amazon.com/Ideal-Team-Player-Recognize-Cultivate/dp/1119209595/ref=sr_1_1?keywords=the+ideal+team+player+by+patrick+lencioni&qid=1689878542&sprefix=The+Ideal+team%2Caps%2C109&sr=8-1](https://www.amazon.com/Thousand-Faces-Collected-Joseph-Campbell/dp/1577315936). Yes, it's the basis for the Darth Vader story in Star Wars, but it is also the work that defined The Hero's Journey, and led the author to profoundly state "All religions are true but none are literal'.
+* [Tao Te Ching](https://www.amazon.com/Tao-Te-Ching-Perennial-Classics/dp/0061142662). It is what I recommend when someone asks for a book on Servant Leadership
+* [Zen and the Art of Motorcycle Maintenance](https://www.amazon.com/Zen-Art-Motorcycle-Maintenance-Inquiry/dp/0060589469). Why eliminating distractions and entering a state of flow leads to the highest quality work.
+* [The Hero With a Thousand Faces](https://www.amazon.com/Thousand-Faces-Collected-Joseph-Campbell/dp/1577315936). Yes, it's the basis for the Darth Vader story in Star Wars, but it is also the work that defined The Hero's Journey, and led the author to profoundly state "All religions are true but none are literal'.
 
 <!---
 lambertjim5150/lambertjim5150 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
